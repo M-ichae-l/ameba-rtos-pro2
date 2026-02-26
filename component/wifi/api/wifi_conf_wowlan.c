@@ -146,6 +146,10 @@ void wifi_set_802_11v_bss_pkt_offload(void)
 	memcpy((&bss_pattern.mask), data_mask, 6);
 
 	wifi_wowlan_set_pattern(bss_pattern);
+
+	//for wpa3
+	extern void rtw_hal_sw_parser_11v_enable(u8 enable);
+	rtw_hal_sw_parser_11v_enable(1);
 }
 
 #ifdef CONFIG_WOWLAN_TCP_KEEP_ALIVE

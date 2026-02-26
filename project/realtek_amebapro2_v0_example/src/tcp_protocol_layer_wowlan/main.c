@@ -1016,7 +1016,7 @@ void main(void)
 					//	extern uint8_t rtw_hal_read_ch_pno_scan_from_txfifo(uint8_t reason);
 					//	channel = rtw_hal_read_ch_pno_scan_from_txfifo(wowlan_wake_reason);
 					//	printf("\r\nwake up from pno and camp on ch %d\r\n", channel);
-				} else if (wowlan_wake_reason == RX_HW_PATTERN_PKT) {
+				} else if ((wowlan_wake_reason == RX_HW_PATTERN_PKT) || (wowlan_wake_reason == RX_WPA3_11V_PKT)) {
 					wlan_mcu_ok = 0;
 					uint32_t packet_len = 0;
 					u8 type, category, action;
