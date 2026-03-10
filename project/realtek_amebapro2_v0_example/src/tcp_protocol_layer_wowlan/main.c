@@ -1034,6 +1034,7 @@ void main(void)
 						channel = *(wakeup_packet + 44);
 						extern void wifi_set_11v_ch_bssid(uint8_t channel, uint8_t *bssid);
 						wifi_set_11v_ch_bssid(channel, bssid);
+						tcp_resume = 1;
 					}
 					free(wakeup_packet);
 				} else if (wowlan_wake_reason == FW_PNO_TIMEOUT) {
