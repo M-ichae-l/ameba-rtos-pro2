@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 4dfa8648f4f9aa3d06b044769a88457209a8f614
+* [amebapro2][bt] modify external pta api
+
 SHA-1: f0d0bb3528f913a6434436a26be632b150cc9b2b
 * [amebapro2][bt:controller] update BT normal patch
 
