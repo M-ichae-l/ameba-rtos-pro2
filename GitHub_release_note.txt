@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: fb5546021e77817c2bdf8b2b9f640f5cc5ffe681
+* [amebapro2][video] sync voe to 1.7.0.0
+
 SHA-1: 4dfa8648f4f9aa3d06b044769a88457209a8f614
 * [amebapro2][bt] modify external pta api
 
