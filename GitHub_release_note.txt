@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 5201a454a068755197b4a400edd4251897bfbf9d
+* [amebapro2][mmf] add queue init check
+
 SHA-1: fb5546021e77817c2bdf8b2b9f640f5cc5ffe681
 * [amebapro2][video] sync voe to 1.7.0.0
 
