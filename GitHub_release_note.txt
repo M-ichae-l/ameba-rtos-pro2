@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 235774de8f6d86d8e92e9c5f152c00eb17b22b3b
+* [amebapro2][wlan] wowlan support decode 11v wpa3 packet
+
 SHA-1: b7a575cd94b0f613cdcebcf3f9ee78a85d87fe6a
 * [amebapro2][mmf] add jpeg snapshot exception for queue init check
 
