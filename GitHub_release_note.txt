@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 386c92b2628718d760432f43cec5a7568f982341
+* [amebapro2][isp] add isp osd with tof sensor example
+
 SHA-1: caf4887530a9df372ead1244f52ea3afb802cf16
 * [amebapro2][kvs] add example kvs_webrtc_v2_mmf for new version of freertos kvs webrtc
 
