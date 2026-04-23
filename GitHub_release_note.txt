@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 65501a37d2dc82ccba6e2ca86ebbfbe0d002e613
+* [amebapro2][video] sync voe to 1.7.1.0
+
 SHA-1: 386c92b2628718d760432f43cec5a7568f982341
 * [amebapro2][isp] add isp osd with tof sensor example
 
