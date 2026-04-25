@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 098a3f326391f2d6f862ff7a72188977660cbe5b
+* [amebapro2][video] update ov12890 iq
+
 SHA-1: 65501a37d2dc82ccba6e2ca86ebbfbe0d002e613
 * [amebapro2][video] sync voe to 1.7.1.0
 
