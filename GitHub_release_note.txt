@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 48df15ac3b71b1e0ff88b5178ab14cdde921b3eb
+* [amebapro2][video] support imx681 5m resolution
+
 SHA-1: 098a3f326391f2d6f862ff7a72188977660cbe5b
 * [amebapro2][video] update ov12890 iq
 
