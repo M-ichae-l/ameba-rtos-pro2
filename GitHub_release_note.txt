@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: e9e30ba15917288694f248f1d2465fed3c6ae920
+* [amebapro2][wlan] modify dynamic ARP example
+
 SHA-1: 43d940446da966a145a2ac99f45c9af5e063e606
 * [amebapro2][wlan] wowlan modify dhcp renew unit from min to sec
 
