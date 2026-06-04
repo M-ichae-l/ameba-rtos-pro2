@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 609ae2bdf81132bffcf920cc059cbf8ae91be8e3
+* [amebapro2][osd] modify osd string max length
+
 SHA-1: e720424e927acfcbc3b049bb4979ac7c9ac0a132
 * [amebapro2][video] add SC450AI and OV5647 sensor drivers
 
