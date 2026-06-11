@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 93c8da6685e077df26b30bd1cd01b93f45984ae7
+* [amebapro2][wlan] wowlan fix dhcp count error and filter icmp reply
+
 SHA-1: 609ae2bdf81132bffcf920cc059cbf8ae91be8e3
 * [amebapro2][osd] modify osd string max length
 
