@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: ffa515e67fb2bfdc5bdb6abeee02c47e92c07019
+* [amebapro2][video] update libmmf and application source
+
 SHA-1: 93c8da6685e077df26b30bd1cd01b93f45984ae7
 * [amebapro2][wlan] wowlan fix dhcp count error and filter icmp reply
 
