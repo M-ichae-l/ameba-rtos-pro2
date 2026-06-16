@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 92629b42b91faf881bddfd4168340a2d883f97ee
+* [amebapro2][wlan] Disable Wi-Fi function by chip id
+
 SHA-1: ffa515e67fb2bfdc5bdb6abeee02c47e92c07019
 * [amebapro2][video] update libmmf and application source
 
