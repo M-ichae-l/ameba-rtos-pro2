@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: e764d19ee95aa6ac54d47ac0ba3dae07e1ec55af
+* [amebapro2][wlan] wowlan fix parser action frame stuck for 11v enable
+
 SHA-1: 92629b42b91faf881bddfd4168340a2d883f97ee
 * [amebapro2][wlan] Disable Wi-Fi function by chip id
 
