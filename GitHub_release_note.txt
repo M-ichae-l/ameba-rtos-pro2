@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 05ac532b99bb4b9d1d7c53ce67387d9c18c3f064
+* [amebapro2][bt] add BLE privacy enable log
+
 SHA-1: e764d19ee95aa6ac54d47ac0ba3dae07e1ec55af
 * [amebapro2][wlan] wowlan fix parser action frame stuck for 11v enable
 
