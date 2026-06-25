@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: c1410ceb3b82805dce8cc04f965e10bb43d30102
+* [amebapro2][freertos] add freertos v202604 LTS
+
 SHA-1: 05ac532b99bb4b9d1d7c53ce67387d9c18c3f064
 * [amebapro2][bt] add BLE privacy enable log
 
