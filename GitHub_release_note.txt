@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 7f85267a468ae558d4f7ac309090c68320801a63
+* [amebapro2][video] video_api.c modifications that work for ai glass
+
 SHA-1: c1410ceb3b82805dce8cc04f965e10bb43d30102
 * [amebapro2][freertos] add freertos v202604 LTS
 
