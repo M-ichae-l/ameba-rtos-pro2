@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: a69888563652143b4f650c374f50350998b88ebc
+* [amebapro2][video] fix video_voe_presetting set isp_info after osd/hdr enable
+
 SHA-1: 7f85267a468ae558d4f7ac309090c68320801a63
 * [amebapro2][video] video_api.c modifications that work for ai glass
 
