@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: b255688746d52b85fc7d5ae414b6f19fa10882d5
+* [amebapro2][wlan] update Realtek own's code license to Apache2.0 and remove linux relative information
+
 SHA-1: 69b2082ceb90433a47158ee69a10e83844d85a31
 * [amebapro2][wlan] Modify TSSI efem rfe_type == 1 setting. TSSI 0x26 for cgi efem.
 
