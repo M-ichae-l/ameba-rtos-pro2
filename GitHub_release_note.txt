@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: bfdf9124d2a16d22b7eb960db1d37062c57f96d5
+* [amebapro2][wlan] add function about noise floor api
+
 SHA-1: b255688746d52b85fc7d5ae414b6f19fa10882d5
 * [amebapro2][wlan] update Realtek own's code license to Apache2.0 and remove linux relative information
 
