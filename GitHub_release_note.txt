@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 0408895d6b2127dbeed013af57046fab9fd8d4f0
+* [amebapro2][bt:controller] update BT normal patch
+
 SHA-1: bfdf9124d2a16d22b7eb960db1d37062c57f96d5
 * [amebapro2][wlan] add function about noise floor api
 
