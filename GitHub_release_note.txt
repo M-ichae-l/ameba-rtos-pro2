@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 5aa75098e8443e8f24f0cf46e91c07f97dfb990d
+* [amebapro2][wlan] fixed rltk_get_connection_pmf_enable func for wpa2/wpa3
+
 SHA-1: 0408895d6b2127dbeed013af57046fab9fd8d4f0
 * [amebapro2][bt:controller] update BT normal patch
 
