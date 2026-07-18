@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 1fc40634b8b69da6150095b5ff60695eb151da0e
+* [amebapro2][video] uvc example sync sensor fps
+
 SHA-1: 5aa75098e8443e8f24f0cf46e91c07f97dfb990d
 * [amebapro2][wlan] fixed rltk_get_connection_pmf_enable func for wpa2/wpa3
 
