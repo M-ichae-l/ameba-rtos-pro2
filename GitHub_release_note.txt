@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: a37b97ae69fc6ed7865c07667f4485373c77e1d5
+* [amebapro2][wlan] check support wowlan
+
 SHA-1: 1fc40634b8b69da6150095b5ff60695eb151da0e
 * [amebapro2][video] uvc example sync sensor fps
 
