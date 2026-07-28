@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 805685630e5b1dca69b4e6be5425dc1dc2da5109
+* [amebapro2][wlan] wowlan pre-processing aoac data
+
 SHA-1: 5a55030095b7f4b8fc12bd6a385929a60348bc4a
 * [amebapro2][wlan] Support customer efem type
 
