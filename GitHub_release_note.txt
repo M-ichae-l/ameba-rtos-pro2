@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 5c33891c2ca6bbfb55578810972417e812d6b1a2
+* [amebapro2][mbedtls] remove unused mbedtls 3.6.4
+
 SHA-1: a0b2084eb42b1231c49a537f40b38e62f5bf829f
 * [amebapro2] [osd] add color change support for ABGR4444 text
 
