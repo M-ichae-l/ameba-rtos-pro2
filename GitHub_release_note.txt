@@ -1,6 +1,9 @@
 
 GitHub Update Note, sync with 9.6_r
 
+SHA-1: 498c245480d1e9f12f72d46de7072856250f18c6
+* [amebapro2][video] update sensor driver & setting file
+
 SHA-1: ea160858328cb2fc670efb4038f3eb3752743f59
 * [amebapro2][ota] ota no longer depend on ai glass application files
 
